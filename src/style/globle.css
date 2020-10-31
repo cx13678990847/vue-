@@ -1,0 +1,13 @@
+ html,body,#app{
+ 	margin: 0;
+ 	padding: 0;
+ 	height: 100%;
+ }
+
+ .ql-editor{
+ 	min-height: 200px;
+ }
+ body .el-table th.gutter{
+    display: table-cell!important;
+
+  }
