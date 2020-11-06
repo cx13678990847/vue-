@@ -19,6 +19,8 @@ npm run build
 ```
 npm run lint
 ```
+用户名：admin
+密码：123456
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
